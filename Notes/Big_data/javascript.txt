@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-01-05T20:20:24+08:00
+
+====== javascript ======
+Created 星期一 05 一月 2015
+
+注意的是
+html　和　Dom 和　javascript　和　Jquery　的区别
+
+.children() 	只返回元素，不会返回TextNode，注释
+.childNodes() 　　　不仅返回普通元素，还返回TextNode　和注释
+
+
+Function.prototype.toString.call()
+
+
+Empty => Function 
